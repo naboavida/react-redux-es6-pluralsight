@@ -4,4 +4,4 @@ Code regarding Pluralsight's React Redux in ES6 course (minor improvements added
 
 npm install
 
-npm run
+npm run start
